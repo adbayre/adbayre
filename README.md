@@ -1,7 +1,7 @@
 # Hi, I'm Adrien 👋
 
 I'm a 20-year-old engineering student from France with a strong interest in **market finance**, **data science**, and **system modeling**.  
-Currently in my 1st year of a Master's in Engineering (graduating 2027), I am building a skillset to work into the **quantitative finance** industry.
+Currently in my 1st year of Master's in Financial Engineering (graduating 2027), I am building a skillset to work into the **quantitative finance** industry.
 
 ---
 
@@ -13,7 +13,7 @@ Currently in my 1st year of a Master's in Engineering (graduating 2027), I am bu
 ---
 
 ## 🔧 Tech Stack
-- **Programming**: Python, MATLAB, C++, Arduino
+- **Programming**: Python, MATLAB, C++, Arduino, parallel programming
 - **Data Science / ML**: Pandas, NumPy, Scikit-learn
 - **Numerical Methods**: PDEs, finite differences, signal processing
 - **Tools**: Git, Excel, LaTeX, Linux bash/shell
@@ -21,8 +21,7 @@ Currently in my 1st year of a Master's in Engineering (graduating 2027), I am bu
 ---
 
 ## 📈 Current Projects
-- Option pricer in C++ (Black-Scholes, Cox-Ross-Rubinstein, Monte Carlo simulations, binomial model for American options)
-- PDE solver in Python (explicit and semi-implicit schemes).
+- Option pricer in C++ (Black-Scholes, Cox-Ross-Rubinstein, Monte Carlo simulations, binomial model for American options).
 - Data science notebooks (Airbnb price prediction, ADIA structural break).
 - Signal processing in MATLAB (filtering, Fourier analysis).
 
