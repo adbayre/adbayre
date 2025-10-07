@@ -6,7 +6,7 @@ Currently in my 1st year of Master's in Financial Engineering (graduating 2027),
 ---
 
 ## 🎯 Goals
-- Secure internships in the EMEA region.
+- Secure a 2026 internship in the EMEA region.
 - Strengthen quantitative and programming skills.
 - Build long-term skills in finance, data science, and engineering.
 
