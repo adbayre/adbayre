@@ -1,36 +1,37 @@
 # Hi, I'm Adrien 👋
 
-I'm a 20-year-old engineering student from France with a strong interest in **market finance**, **data science**, and **system modeling**.  
+A 20-year-old engineering student from France with a strong interest in **market finance**, **data science**, and **quantitative modeling**.  
 Currently in my 1st year of Master's in Financial Engineering (graduating 2027), I am building a skillset to work into the **quantitative finance** industry.
 
 ---
 
 ## 🎯 Goals
-- Secure a 2026 internship in the EMEA region.
-- Strengthen quantitative and programming skills.
-- Build long-term skills in finance, data science, and engineering.
+- Secure a 2026 quantitative finance internship.
+- Keep exploring quantitative and programming skills.
+- Continuously build long-term knowledge in finance, data science, and AI.
 
 ---
 
 ## 🔧 Tech Stack
-- **Programming**: Python, MATLAB, C++, Arduino, parallel programming
-- **Data Science / ML**: Pandas, NumPy, Scikit-learn
+- **Programming**: Python, MATLAB, C++, C#, Arduino, OpenMPI
+- **Data Science / ML**: Pandas, NumPy, , MatplotLib, Scikit-learn, tensorflow
 - **Numerical Methods**: PDEs, finite differences, signal processing
 - **Tools**: Git, Excel, LaTeX, Linux bash/shell
 
 ---
 
-## 📈 Current Projects
-- Option pricer in C++ (Black-Scholes, Cox-Ross-Rubinstein, Monte Carlo simulations, binomial model for American options).
-- Data science notebooks (Airbnb price prediction, ADIA structural break).
-- Signal processing in MATLAB (filtering, Fourier analysis).
+## 📈 Active Projects
+- Quantitative option portfolio on index funds
+- Option pricer in C++
+- Machine learning commodity market analysis, price prediction
+- Market risk exploratory project
 
 ---
 
-## 🌍 Interests
-- Quantitative finance and algorithmic trading
-- Applied math and statistical modeling
-- Engineering systems (control, signal, multi-agent)
+## 🌍 You can talk to me about
+- Quantitative finance, commodity markets, algorithmic trading, but also private markets
+- Applied math and statistics, econometrics
+- Engineering news
 - Anything I am not yet familiar with!
 
 ---
