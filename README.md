@@ -24,7 +24,7 @@ Currently in my 1st year of Master's in Financial Engineering (graduating 2027),
 - [Quantitative option portfolio on index funds in Python](https://github.com/adbayre/Quant-Option-Portfolio)
 - [Option pricer in C++](https://github.com/adbayre/Option-Pricing-CPP)
 - [Machine learning commodity market analysis, price prediction](https://github.com/adbayre/Commodities-Price-Prediction)
-- Market risk exploratory project
+- [Market risk exploratory project](https://github.com/MartinJondeau/Market-Risk-Modelling)
 
 ---
 
