@@ -1,7 +1,7 @@
 # Hi, I'm Adrien 👋
 
 A 20-year-old engineering student from France with a strong interest in **commodity markets**, **data science**, and **quantitative modeling**.  
-Currently in my 1st year of Master's in Financial Engineering with elective classes in HPC & AI (graduating 2027), I am building a skillset to work into the **quantitative finance** industry.
+Currently in my 1st year of Master's in Financial Engineering with elective classes in HPC & AI (graduating 2027), I am building a skillset to work into the **finance** industry.
 
 ---
 
