@@ -32,6 +32,7 @@ Currently in my 1st year of Master's in Financial Engineering (graduating 2027),
 - Quantitative finance, commodity markets, algorithmic trading, but also private markets
 - Applied math and statistics, econometrics
 - Engineering and business news
+- Sports and cinema
 - Anything I am not yet familiar with!
 
 ---
