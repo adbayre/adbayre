@@ -6,7 +6,7 @@ Currently in my 1st year of Master's in Financial Engineering (graduating 2027),
 ---
 
 ## 🎯 Goals
-- Secure a 2026 quantitative finance internship.
+- Secure a 2026 finance internship.
 - Keep exploring quantitative and programming skills.
 - Continuously build long-term knowledge in finance, data science, and AI.
 
