@@ -15,7 +15,7 @@ Currently in my 1st year of Master's in Financial Engineering with elective clas
 ## Tech Stack
 - **Programming**: Python, MATLAB, C++, C#, Arduino, OpenMPI
 - **Data Science / ML**: Pandas, NumPy, MatplotLib, Scikit-learn, tensorflow
-- **Numerical Methods**: PDEs, finite differences, signal processing
+- **Numerical Methods**: SDEs, finite differences, signal processing
 - **Tools**: Git, Excel, LaTeX, Linux bash/shell
 
 ---
