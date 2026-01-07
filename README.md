@@ -6,7 +6,7 @@ Currently in my 1st year of Master's in Financial Engineering with elective clas
 ---
 
 ## Goals
-- Secure a 2026 finance internship.
+- Secure a 2026 finance/energy internship.
 - Keep exploring quantitative and programming skills.
 - Continuously build long-term knowledge in finance, data science, and AI.
 
@@ -21,10 +21,11 @@ Currently in my 1st year of Master's in Financial Engineering with elective clas
 ---
 
 ## Active Projects
-- [Quantitative option portfolio on index funds in Python](https://github.com/adbayre/Quant-Option-Portfolio)
+- [Quantitative Option Portfolio on Index Funds in Python](https://github.com/adbayre/Quant-Option-Portfolio)
+- [Portfolio Construction & Backtesting Engine in Python](https://github.com/MartinJondeau/Portfolio-Backtest-Engine)
 - [Option pricer in C++](https://github.com/adbayre/Option-Pricing-CPP)
-- [Machine learning commodity market analysis, price prediction](https://github.com/adbayre/Commodities-Price-Prediction)
-- [Market risk exploratory project](https://github.com/MartinJondeau/Market-Risk-Modelling)
+- [Machine Learning Commodity Market Analysis, Price Prediction](https://github.com/adbayre/Commodities-Price-Prediction)
+- [Market Risk and Statistical Modelling in Python](https://github.com/MartinJondeau/Market-Risk-Modelling)
 
 ---
 
