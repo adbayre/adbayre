@@ -1,51 +1,66 @@
 # Hi, I'm Adrien
 
-A 21-year-old engineering student from France with a strong interest in **commodity markets**, **data science**, and **quantitative modeling**.  
-Currently in my 1st year of Master's in Financial Engineering with elective classes in HPC & AI (graduating 2027), I am building a skillset to get in the **quantitative finance** industry.
+A 21-year-old engineering student from France bridging the gap between **Quantitative Modeling** and **Private Markets**.
+
+Currently in my 1st year of Master's in Financial Engineering (graduating 2027) with a focus on **Stochastic Calculus** and **AI**, I am learning to apply engineering rigor to **Private Credit**, **Distressed Debt**, and **Capital Solutions**.
+
+---
+
+## Current Status
+**Incoming Private Credit Analyst** at **StepStone Group** (Secondaries & Co-Investments) | *Starting April 2026*
 
 ---
 
 ## Goals
-- Secure a 2026 finance/energy internship.
-- Keep exploring quantitative and programming skills.
-- Continuously build long-term knowledge in finance, data science, and AI.
+- Apply quantitative methods (pricing, risk modeling) to illiquid and complex credit structures.
+- Learn everything there is about **Direct Execution** and **Origination** in Private Credit / Special Situations.
+- Continuously refine a hybrid skillset: Fundamental Deal Structuring + Python/C++ Implementation.
 
 ---
 
 ## Tech Stack
-- **Programming**: Python, MATLAB, C++, C#, Arduino, OpenMPI
-- **Data Science / ML**: Pandas, NumPy, MatplotLib, Scikit-learn, tensorflow
-- **Numerical Methods**: SDEs, finite differences, signal processing
-- **Tools**: Git, Excel, LaTeX, Linux bash/shell
+- **Programming**: Python (Advanced), C++, C#, MATLAB, SQL
+- **Data Science / ML**: Pandas, NumPy, Scikit-learn, TensorFlow, Stochastic Volatility Models
+- **Numerical Methods**: Monte Carlo Simulations, SDEs, Finite Differences
+- **Tools**: Git, Bloomberg Terminal, Excel (VBA/Modeling), LaTeX, Linux
 
 ---
 
 ## Active Projects
-- [Quantitative Option Portfolio on Index Funds in Python](https://github.com/adbayre/Quant-Option-Portfolio)
-- [Portfolio Construction & Backtesting Engine in Python](https://github.com/MartinJondeau/Portfolio-Backtest-Engine)
-- [Option pricer in C++](https://github.com/adbayre/Option-Pricing-CPP)
-- [Machine Learning Commodity Market Analysis, Price Prediction](https://github.com/adbayre/Commodities-Price-Prediction)
-- [Market Risk and Statistical Modelling in Python](https://github.com/MartinJondeau/Market-Risk-Modelling)
+*My work focuses on pricing complexity and managing risk.*
+
+- **[Market Risk & Statistical Modelling](https://github.com/MartinJondeau/Market-Risk-Modelling)**
+  *Implementation of VaR, ES, and wavelets-based dependence structures relevant for portfolio construction.*
+  
+- **[Quantitative Option Portfolio on Index Funds](https://github.com/adbayre/Quant-Option-Portfolio)**
+  *Derivatives pricing engine using Python to manage volatility exposure.*
+
+- **[Option Pricer in C++](https://github.com/adbayre/Option-Pricing-CPP)**
+  *High-performance computing project using various methods for pricing American/European and exotic options.*
+
+- **[Portfolio Construction & Backtesting Engine](https://github.com/MartinJondeau/Portfolio-Backtest-Engine)**
+  *Systematic strategy tester focusing on risk-adjusted returns.*
+
+- **[Commodity Market Analysis & Prediction](https://github.com/adbayre/Commodities-Price-Prediction)**
+  *Machine Learning approach to time-series forecasting in volatile markets.*
 
 ---
 
-## You can talk to me about
-- Quantitative finance, commodity markets, algorithmic trading, but also private markets
-- Applied math and statistics, econometrics
-- Engineering and business news
-- Sports and cinema
-- Anything I am not yet familiar with!
+## 🗣 You can talk to me about
+- **Private Markets**: Private Credit, Secondaries, and the intersection of Liquid/Illiquid assets.
+- **Quantitative Finance**: Stochastic calculus, derivatives pricing, and risk engineering.
+- **Distressed Debt**: Bankruptcy processes, restructuring, and special situations.
+- **Engineering**: HPC, AI, and their applications in finance.
+- **Interests**: Game Theory, Sports (Boxing), and Cinema.
 
 ---
 
-## Connect
+## 🔗 Connect
 - [LinkedIn](www.linkedin.com/in/adrien-bayre)
-- [Email](mailto:adrien.bayre@outlook.fr)
+- [Email](mailto:adrien.bayre@edu.devinci.fr)
 
 ---
 
-*« Une intelligence qui, pour un instant donné, connaîtrait toutes les forces dont la nature est animée, et la situation respective des êtres qui la composent, si d'ailleurs elle était assez vaste pour soumettre ces données à l'analyse, embrasserait dans la même formule les mouvements des plus grands corps de l'univers et ceux du plus léger atome : rien ne serait incertain pour elle, et l'avenir, comme le passé, serait présent à ses yeux. »* – Laplace
+*« Une intelligence qui, pour un instant donné, connaîtrait toutes les forces dont la nature est animée, et la situation respective des êtres qui la composent, si d'ailleurs elle était assez vaste pour soumettre ces données à l'analyse, embrasserait dans la même formule les mouvements des plus grands corps de l'univers et ceux du plus léger atome... »* – Pierre-Simon de Laplace
 
-*"An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis , it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom: for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes."* - Laplace
-
-
+*"An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed... nothing would be uncertain and the future just like the past would be present before its eyes."* - Laplace
