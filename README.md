@@ -1,8 +1,8 @@
 # Hi, I'm Adrien
 
-A 21-year-old engineering student from France bridging the gap between **Quantitative Modeling** and **Private Markets**.
+A 21-year-old engineering student from France bridging the gap between **Quantitative Modeling** and **Investment Process**.
 
-Currently in my 1st year of Master's in Financial Engineering (graduating 2027) with a focus on **Stochastic Calculus** and **AI**, I am learning to apply engineering rigor to **Private Credit**, **Distressed Debt**, and **Capital Solutions**.
+Currently in my 1st year of Master's in Financial Engineering (graduating 2027) with a focus on **Stochastic Calculus** and **Machine Learning**, I am learning to apply engineering rigor to **Portfolio Management**.
 
 ---
 
@@ -12,9 +12,9 @@ Currently in my 1st year of Master's in Financial Engineering (graduating 2027) 
 ---
 
 ## Goals
-- Apply quantitative methods (pricing, risk modeling) to illiquid and complex credit structures.
-- Learn everything there is about **Direct Execution** and **Origination** in Private Credit / Special Situations.
-- Continuously refine a hybrid skillset: Fundamental Deal Structuring + Python/C++ Implementation.
+- Apply quantitative methods (pricing, risk modeling) to liquid and complex asset structures.
+- Learn everything there is about **Statistics** and **Machine Learning** in Asset Management.
+- Continuously refine a hybrid skillset: Fundamental Financial Analysis + Python/C++ Implementation.
 
 ---
 
